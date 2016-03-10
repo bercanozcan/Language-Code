@@ -5,5 +5,5 @@ PHP array dizi şekilde tüm dil kodları.
 
 Dil kodu ve dil ismi olarak, anahtar değer ilişkisinde düzenlenmiştir.
 
-@Author: <a href="http://bercanozcan.com">Bercan Özcan</a><br />
-@Twitter: <a href="http://twitter.com/bercanozcan">Bercan Özcan</a>
+Author: <a href="http://bercanozcan.com">bercanozcan.com</a><br />
+Twitter: <a href="http://twitter.com/bercanozcan">@bercanozcan</a>
